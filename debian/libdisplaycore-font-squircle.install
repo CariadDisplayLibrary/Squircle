@@ -1,3 +1,5 @@
 examples libraries/DisplayCore/Squircle
-Squircle.cpp libraries/DisplayCore/Squircle
-Squircle.h libraries/DisplayCore/Squircle
+library.json libraries/DisplayCore/Squircle
+library.properties libraries/DisplayCore/Squircle
+README.md libraries/DisplayCore/Squircle
+src libraries/DisplayCore/Squircle
