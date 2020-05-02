@@ -10,5 +10,5 @@ Preview images
 --------------
 * Fonts::Squircle 
 
-![Squircle](https://raw.githubusercontent.com/DisplayCore/Squircle/master/Preview/Squircle.png)
+![Squircle](https://raw.githubusercontent.com/Cariad/Squircle/master/Preview/Squircle.png)
 
